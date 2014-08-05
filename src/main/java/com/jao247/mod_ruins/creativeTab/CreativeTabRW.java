@@ -1,5 +1,7 @@
 package com.jao247.mod_ruins.creativeTab;
 
+import com.jao247.mod_ruins.init.ModBlocks;
+import com.jao247.mod_ruins.init.ModItems;
 import com.jao247.mod_ruins.reference.Reference;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
@@ -11,7 +13,7 @@ public class CreativeTabRW
 		@Override
 		public Item getTabIconItem()
 		{
-			return null;
+			return ModItems.Bronze;
 		}
 	};
 }

@@ -11,6 +11,11 @@ Z = Build Number
 Changelog
 =========
 
+ver 0.0.002
+- First Test Block added (Textures incl.)
+- First Test Item added (Textures invl.)
+- Creative Tab fixes
+
 ver 0.0.001
 - Set Up completed
 - File Archetype created

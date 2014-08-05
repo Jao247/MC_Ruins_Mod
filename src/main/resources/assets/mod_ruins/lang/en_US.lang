@@ -1,1 +1,3 @@
 itemGroup.mod_ruins=Ruins Of The World
+item.mod_ruins:BronzeEdgedBricks.name=Bronze Edged Bricks
+item.mod_ruins:Bronze.name=Bronze Ingot
