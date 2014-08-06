@@ -1,3 +1,13 @@
 itemGroup.mod_ruins=Ruins Of The World
-item.mod_ruins:BronzeEdgedBricks.name=Bronze Edged Bricks
-item.mod_ruins:Bronze.name=Bronze Ingot
+
+==Blocks==
+=Ore=
+item.mod_ruins:Copper_Ore.name=Copper Ore
+item.mod_ruins:Tin_Ore.name=Tin Ore
+=Building=
+item.mod_ruins:Bronze_Edged_Bricks.name=Bronze Edged Bricks
+
+==Items==
+item.mod_ruins:Copper_Ingot.name=Copper Ingot
+item.mod_ruins:Tin_Ingot.name=Tin Ingot
+item.mod_ruins:Bronze_Ingot.name=Bronze Ingot

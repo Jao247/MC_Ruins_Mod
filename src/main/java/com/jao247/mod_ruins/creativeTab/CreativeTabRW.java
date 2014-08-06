@@ -13,7 +13,7 @@ public class CreativeTabRW
 		@Override
 		public Item getTabIconItem()
 		{
-			return ModItems.Bronze;
+			return Item.getItemFromBlock(ModBlocks.Copper_Ore);
 		}
 	};
 }

@@ -3,6 +3,7 @@ package com.jao247.mod_ruins;
 import com.jao247.mod_ruins.handler.ConfigHandler;
 import com.jao247.mod_ruins.init.ModBlocks;
 import com.jao247.mod_ruins.init.ModItems;
+import com.jao247.mod_ruins.init.ModRecipes;
 import com.jao247.mod_ruins.proxy.IProxy;
 import com.jao247.mod_ruins.reference.Reference;
 import cpw.mods.fml.common.FMLCommonHandler;
@@ -30,6 +31,8 @@ public class RuinsOfWorld
 		ModItems.init();
 
 		ModBlocks.init();
+
+		ModRecipes.init();
 	}
 
 	@Mod.EventHandler
