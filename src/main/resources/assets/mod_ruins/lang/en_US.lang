@@ -6,6 +6,10 @@ item.mod_ruins:Copper_Ore.name=Copper Ore
 item.mod_ruins:Tin_Ore.name=Tin Ore
 =Building=
 item.mod_ruins:Bronze_Edged_Bricks.name=Bronze Edged Bricks
+=Storage=
+item.mod_ruins.Copper_Bricks.name=Copper Bricks
+item.mod_ruins.Tin_Bricks.name=Tin Bricks
+item.mod_ruins.Bronze_Bricks.name=Bronze Bricks
 
 ==Items==
 item.mod_ruins:Copper_Ingot.name=Copper Ingot

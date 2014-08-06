@@ -2,6 +2,7 @@ package com.jao247.mod_ruins;
 
 import com.jao247.mod_ruins.handler.ConfigHandler;
 import com.jao247.mod_ruins.init.ModBlocks;
+import com.jao247.mod_ruins.init.ModGeneration;
 import com.jao247.mod_ruins.init.ModItems;
 import com.jao247.mod_ruins.init.ModRecipes;
 import com.jao247.mod_ruins.proxy.IProxy;
@@ -33,6 +34,8 @@ public class RuinsOfWorld
 		ModBlocks.init();
 
 		ModRecipes.init();
+
+		ModGeneration.init();
 	}
 
 	@Mod.EventHandler

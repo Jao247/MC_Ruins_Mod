@@ -11,6 +11,10 @@ Z = Build Number
 Changelog
 =========
 
+ver 0.0.004
+- Added Copper, Tin and Bronze bricks for storage purposes
+- Added Copper and Tin world gen
+
 ver 0.0.003
 - Test Block and Item Fully Implemented as Bronze Ingot and Edged Bricks
 - Added Copper Ore and Copper Ingot
